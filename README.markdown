@@ -19,7 +19,7 @@ I'm also going to assume that you're reasonably familiar with Javascript.  If yo
 
 To get started we've downloaded qUnit and created a simple scaffolding.
 
-Clone this repository and reset it to the commit your interested in (in this case the first one):
+Clone this repository and reset it to the commit your interested in (in this case the first one, ac3e163395):
 
     $ git clone git@github.com:MarkBennett/IntroToJsTdd.git
     $ git reset <commit>
