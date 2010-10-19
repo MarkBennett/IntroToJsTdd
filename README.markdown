@@ -22,7 +22,7 @@ To get started we've downloaded qUnit and created a simple scaffolding.
 Clone this repository and reset it to the commit your interested in (in this case the first one, ac3e163395):
 
     $ git clone git@github.com:MarkBennett/IntroToJsTdd.git
-    $ git reset <commit>
+    $ git reset --hard <commit>
 
 We've now got five files in our directory:
 
